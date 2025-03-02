@@ -2,7 +2,11 @@
 
 ## 🚀 Overview
 
-This project is a **Python-based Score Analysis Application** that allows users to: ✔️ Enter player data (Name, Score, Attempts) 📋 ✔️ Store data in an **Excel file (.xlsx)** 📂 ✔️ Perform **Statistical Analysis** 📈 ✔️ Visualize results using **Matplotlib** 🎨
+This project is a **Python-based Score Analysis Application** that allows users to: 
+✔️ Enter player data (Name, Score, Attempts) 📋 
+✔️ Store data in an **Excel file (.xlsx)** 📂 
+✔️ Perform **Statistical Analysis** 📈 
+✔️ Visualize results using **Matplotlib** 🎨
 
 ## 🛠️ Tech Stack
 
@@ -16,7 +20,7 @@ This project is a **Python-based Score Analysis Application** that allows users 
 1️⃣ **Clone the repository**
 
 ```bash
-    git clone https://github.com/surendarreddynagammagari/MPR/edit/main/README.md
+    git clone https://github.com/surendarreddynagammagari/MPR
 ```
 
 2️⃣ **Navigate to the project directory**
@@ -72,7 +76,7 @@ This project is a **Python-based Score Analysis Application** that allows users 
 
 👨‍💻 **Surender Reddy**\
 🎓 AI & Data Science Enthusiast\
-📩 Contact: https://github.com/surendarreddynagammagari/MPR/edit/main/README.md
+📩 Contact: https://github.com/surendarreddynagammagari/MPR
 
 ---
 
