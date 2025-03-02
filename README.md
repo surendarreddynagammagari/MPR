@@ -41,7 +41,11 @@ This project is a **Python-based Score Analysis Application** that allows users 
 
 ## 🎯 Features
 
-✅ **User Input Handling** – Stores player data interactively 📝 ✅ **Excel Integration** – Saves & retrieves data in Excel 📊 ✅ **Statistical Analysis** – Computes mean, median, and standard deviation 📈 ✅ **Graphical Insights** – Generates histogram & scatter plots 📊 ✅ **Error Handling** – Ensures smooth execution ⚡
+✅ **User Input Handling** – Stores player data interactively 📝 
+✅ **Excel Integration** – Saves & retrieves data in Excel 📊 
+✅ **Statistical Analysis** – Computes mean, median, and standard deviation 📈 
+✅ **Graphical Insights** – Generates histogram & scatter plots 📊 
+✅ **Error Handling** – Ensures smooth execution ⚡
 
 ## 📸 Screenshots
 
